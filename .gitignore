@@ -1,0 +1,11 @@
+# cache files
+*.bak
+*.c~
+*.py~
+
+# intermediates
+*.[oa]
+
+# products
+*.lib
+*.exe
